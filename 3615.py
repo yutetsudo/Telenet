@@ -1,5 +1,5 @@
 from Télénet.Minitel import Minitel
-from SERVICE import *
+from Services import *
 import asyncio, telnetlib3
 
 PORT = 3615
