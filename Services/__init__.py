@@ -1,7 +1,7 @@
 #!/bin/python3
 # -*- coding: utf-8 -*-
-from SERVICE.Matrix import Matrix
-from SERVICE.Filbleu import Filbleu
-from SERVICE.Tavie import Tavie
-from SERVICE.WebsocketClient import WebsocketClient
-from SERVICE.Test import Test
+from Services.Matrix import Matrix
+from Services.Filbleu import Filbleu
+from Services.Tavie import Tavie
+from Services.WebsocketClient import WebsocketClient
+from Services.Test import Test
